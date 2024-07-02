@@ -49,3 +49,29 @@ You can install them using `pip` with the provided `requirements.txt` file.
    ```bash
    git clone https://github.com/PunuNGowda/Social_Media_Impact_on_Mental_Health.git
    cd Social_Media_Impact_on_Mental_Health
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Usage
+To run the Streamlit app locally:
+   ```bash
+   streamlit run streamlit_app.py
+• Upload a JSON file containing tweets when prompted.
+• Click "Submit" to analyze the uploaded tweets.
+• Explore the results and visualizations provided by the app.
+
+4. Deployment
+The app can be deployed using Streamlit Cloud or any other hosting service that supports Streamlit apps. Ensure your requirements.txt and streamlit_app.py are properly configured.
+
+5. Contributing
+Contributions are welcome! Here's how you can contribute to this project:
+
+• Fork the repository.
+• Create a new branch (git checkout -b feature/your-feature).
+• Make your changes.
+• Commit your changes (git commit -am 'Add new feature').
+• Push to the branch (git push origin feature/your-feature).
+• Create a new Pull Request.
+
