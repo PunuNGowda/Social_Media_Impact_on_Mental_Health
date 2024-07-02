@@ -77,4 +77,4 @@ Contributions are welcome! Here's how you can contribute to this project:
 
 6. LICENSE
 
-   (`[LICENSE](./LICENSE)`)
+   (`[LICENSE]`)
