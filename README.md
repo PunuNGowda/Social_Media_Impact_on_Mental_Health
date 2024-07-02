@@ -47,5 +47,5 @@ You can install them using `pip` with the provided `requirements.txt` file.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/<repository>.git
-   cd <repository>
+   git clone https://github.com/PunuNGowda/Social_Media_Impact_on_Mental_Health.git
+   cd Social_Media_Impact_on_Mental_Health
