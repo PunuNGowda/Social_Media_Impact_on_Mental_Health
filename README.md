@@ -57,8 +57,9 @@ You can install them using `pip` with the provided `requirements.txt` file.
 ## Usage
 To run the Streamlit app locally:
    ```bash
-   streamlit run streamlit_app.py
-• Upload a JSON file containing tweets when prompted.
+    streamlit run streamlit_app.py
+   ```
+1. Upload a JSON file containing tweets when prompted.
 • Click "Submit" to analyze the uploaded tweets.
 • Explore the results and visualizations provided by the app.
 
