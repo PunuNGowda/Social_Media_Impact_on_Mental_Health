@@ -78,4 +78,4 @@ Contributions are welcome! Here's how you can contribute to this project:
 
 ## LICENSE
 
-   (`[LICENSE]`)
+   https://github.com/PunuNGowda/Social_Media_Impact_on_Mental_Health/blob/main/LICENSE
