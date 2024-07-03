@@ -54,7 +54,7 @@ You can install them using `pip` with the provided `requirements.txt` file.
    ```bash
    pip install -r requirements.txt
 
-3. Usage
+## Usage
 To run the Streamlit app locally:
    ```bash
    streamlit run streamlit_app.py
@@ -62,10 +62,10 @@ To run the Streamlit app locally:
 • Click "Submit" to analyze the uploaded tweets.
 • Explore the results and visualizations provided by the app.
 
-4. Deployment
+## Deployment
 The app can be deployed using Streamlit Cloud or any other hosting service that supports Streamlit apps. Ensure your requirements.txt and streamlit_app.py are properly configured.
 
-5. Contributing
+## Contributing
 Contributions are welcome! Here's how you can contribute to this project:
 
 • Fork the repository.
@@ -75,6 +75,6 @@ Contributions are welcome! Here's how you can contribute to this project:
 • Push to the branch (git push origin feature/your-feature).
 • Create a new Pull Request.
 
-6. LICENSE
+## LICENSE
 
    (`[LICENSE]`)
