@@ -32,7 +32,7 @@ def sent(tweet):
         return 1
 
 # Streamlit app
-st.title("Depression Detection in Tweets")
+st.title("Sentiment Analysis Using Twitter")
 
 # Initialize session state
 if 'df' not in st.session_state:
