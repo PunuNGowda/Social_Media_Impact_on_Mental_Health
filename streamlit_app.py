@@ -123,6 +123,7 @@ if st.button('Submit'):
             }
             
             # Display results
+            st.header("Results")
             st.write("### Model Accuracy")
             st.write(f"KNN Training Accuracy: {acc_knn}%")
             st.write(f"KNN Testing Accuracy: {acc_test_knn}%")
